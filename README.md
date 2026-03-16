@@ -1,40 +1,45 @@
 # QA Portfolio
 
-This repository contains examples of my work while studying software testing.
+Портфолио начинающего инженера по тестированию.
+В репозитории представлены примеры тестовой документации и практических заданий.
 
-## Repository structure
+## Содержание
 
-* Test cases
-* Checklists
-* Bug reports
-* API testing (Postman)
-* SQL practice
+- Test cases
+- Checklists
+- Bug reports
+- API testing (Postman)
+- SQL practice
 
-## Skills
+## Навыки
 
-* Manual testing
-* Functional testing
-* Regression testing
-* Smoke testing
-* Test case design
-* Bug reporting
-* API testing
-* SQL basics
+В процессе выполнения работ использовались:
 
-## Tools
+- Функциональное тестирование
+- Регрессионное тестирование
+- Smoke тестирование
+- Составление тест-кейсов
+- Написание чек-листов
+- Оформление баг-репортов
+- Тестирование API (Postman)
+- Базовые SQL-запросы
 
-* Postman
-* Chrome DevTools
-* GitHub
-* Google Sheets
+## Инструменты
 
-## Practice websites
+- Postman
+- Google Sheets
+- GitHub
+- DevTools
 
-* https://demoqa.com
-* https://reqres.in
+## Практика
 
-## Author
+В рамках обучения тестировались демо-приложения:
 
-Junior QA Engineer
-Student of Yandex Practicum - Software Testing
+- https://demoqa.com
+- https://reqres.in
+
+## Автор
+
+Начинающий QA Engineer  
+Обучающийся курса "Инженер по тестированию" Яндекс Практикум
 
